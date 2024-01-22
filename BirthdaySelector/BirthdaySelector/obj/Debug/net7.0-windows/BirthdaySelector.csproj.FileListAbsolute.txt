@@ -1,0 +1,17 @@
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\bin\Debug\net7.0-windows\BirthdaySelector.exe
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\bin\Debug\net7.0-windows\BirthdaySelector.deps.json
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\bin\Debug\net7.0-windows\BirthdaySelector.runtimeconfig.json
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\bin\Debug\net7.0-windows\BirthdaySelector.dll
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\bin\Debug\net7.0-windows\BirthdaySelector.pdb
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.Form1.resources
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.csproj.GenerateResource.cache
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.AssemblyInfoInputs.cache
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.AssemblyInfo.cs
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.csproj.CoreCompileInputs.cache
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.dll
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\refint\BirthdaySelector.dll
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.pdb
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.genruntimeconfig.cache
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\ref\BirthdaySelector.dll
+C:\Users\cream\Desktop\Personal\BirthdaySelector\BirthdaySelector\obj\Debug\net7.0-windows\BirthdaySelector.Properties.Resources.resources
