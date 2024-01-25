@@ -10,7 +10,7 @@ public class OpenAI
     private static readonly HttpClient client = new HttpClient();
 
     // It's best practice not to expose your API key in your code. Secure it using environment variables, secure Azure vaults, or app settings.
-    public string apiKey = "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"; // Ensure to secure your API key
+    public string apiKey = "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"; // Ensure to secure your API key
 
     public OpenAI(string apiKey)
     {
