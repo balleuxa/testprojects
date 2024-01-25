@@ -45,7 +45,7 @@ namespace TextEditor
 
         private async void btnChatGPT_Click(object sender, EventArgs e)
         {
-            OpenAI ai = new OpenAI("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");
+            OpenAI ai = new OpenAI("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");
             rtxtInput.Text = await ai.GenerateText("Generate a COMPLETE basic HTML code for testing purposes, it should contain html,head and body tags only.");
         }
 
