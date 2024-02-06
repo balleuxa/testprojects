@@ -1,0 +1,7 @@
+gjfbjfbvioned that you are using the Deflate stream algorithm to compress the entries in the zip file. The Deflate algorithm is supported by the ZipArchive class, so it should not be causing the "unsupported compression method" error during extraction.
+Stream Handling:
+
+When extracting the content of an entry using the ZipArchive class and then writing it to another file using a StreamWriter, it's important to ensure that the stream is handled correctly. It's possible that the way the stream is being read or written is affecting the integrity of the data.
+Encoding:
+
+The use of a StreamReader and StreamWrit

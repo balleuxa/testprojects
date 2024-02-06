@@ -1,0 +1,16 @@
+C:\Users\cream\Desktop\Personal\8zip\8zip\bin\Debug\net7.0-windows\8zip.exe
+C:\Users\cream\Desktop\Personal\8zip\8zip\bin\Debug\net7.0-windows\8zip.deps.json
+C:\Users\cream\Desktop\Personal\8zip\8zip\bin\Debug\net7.0-windows\8zip.runtimeconfig.json
+C:\Users\cream\Desktop\Personal\8zip\8zip\bin\Debug\net7.0-windows\8zip.dll
+C:\Users\cream\Desktop\Personal\8zip\8zip\bin\Debug\net7.0-windows\8zip.pdb
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\_8zip.Form8zip.resources
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.csproj.GenerateResource.cache
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.AssemblyInfoInputs.cache
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.AssemblyInfo.cs
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.csproj.CoreCompileInputs.cache
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.dll
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\refint\8zip.dll
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.pdb
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\8zip.genruntimeconfig.cache
+C:\Users\cream\Desktop\Personal\8zip\8zip\obj\Debug\net7.0-windows\ref\8zip.dll
