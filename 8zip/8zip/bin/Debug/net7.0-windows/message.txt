@@ -1,4 +1,0 @@
-t allows you to modify the extension of a file path string.
-The method takes two parameters: the path string you want to modify and the new extension you want to set.
-You can specify the new extension with or without a leading period.
-If you want to remove the existing extension from the path, you can pass null as the new extension.
