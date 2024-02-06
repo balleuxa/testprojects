@@ -1,0 +1,72 @@
+tions
+NotSupportedException
+The zip archive does not support reading.
+
+ObjectDisposedException
+The zip archive has been disposed.
+
+InvalidDataException
+The zip archive is corrupt, and its entries cannot be retrieved.
+
+ExamplesSi Carlos ka ba? Erny. Hindi’. Hindi ako si Carlos. Si
+Erny ako.
+Si Lita ba siya? Mirla. Hindi’. Hindi siya si Lita. Si Mirla
+siya.
+Si Ginoong Lopez ba
+siya? Ginoong Ortega.
+Hindi’. Hindi siya si Ginoong
+Lopez. Si Ginoong Ortega siya.
+Si Mang Pablo po ba
+kayo? Mang Tonio.
+Hindi’. Hindi ako si Mang Pablo.
+Si Mang Tonio ako.
+Si Doming ba iyan?
+Manuel.
+Hindi’. Hindi ito si Doming. Si
+Manuel ito.
+B. Amerikano ba sila?
+Pilipino.
+Hindi’. Hindi sila Amerikano.
+Pilipino sila.
+Mestro ba sila?
+Estudyante.
+Hindi’. Hindi sila mestro.
+Estudyante sila.
+Ilokano ba sila?
+Bikolano.
+Hindi’. Hindi sila Ilokano.
+Bikolano sila.
+TAGALOG FOR BEGINNERS
+44
+Barbero ba siya?
+Tindero.
+Hindi’. Hindi siya barbero.
+Tindero siya.
+Prinsipal ba siya? Titser. Hindi’. Hindi siya prinsipal. Titser
+siya.
+QUESTION-AND-ANSWER DRILL
+Conduct a chain drill asking yes-no questions on personal information that you can handle and answering them with either
+long or short negative responses.
+Example
+S1 Si Guillermo ka ba?
+S2 Hindi’. Si Gregorio ako. Ikaw, sino ka?
+S1 Si Lety naman ako.
+S2 Guro ka ba sa “TESL”?
+S3 Hindi’. Hindi ako guro sa “TESL”. Guro ako sa Agham.
+S3 “Peace Corps trainee” ba si Pablo?
+S4 Hindi’. “Staff” siya.
+At iba pa.
+PANTOMIMING
+Pantomime a well-known character and have the class guess
+who you are.
+Example
+S1 (Pantomimes a staff member) Sino ako?
+S2 Si Ginoong Dytioco ka ba?
+S1 Hindi’. Hindi ako si Ginoong Dytioco.
+S3 Si Ginoong Aportadera ka ba?
+S1 Hindi rin. Hindi ako si Ginoong Aportadera.
+S4 Si George Ricketts ka ba?
+S1 Oo. Si George Ricketts ako.
+CUMULATIVE DIALOGUES
+1. A PCV visits the barrio captain for the first time.
+A1 Táo po’. Magandáng áraw po’. (Literally: There is a p
